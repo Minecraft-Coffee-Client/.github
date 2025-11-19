@@ -16,7 +16,7 @@
 ---
 
 <div align="center">
-  <a href="https://minecraft-coffee-client.github.io/Coffee-Client-Minecraft/" target="_blank" rel="noopener">
+  <a href="https://cutt.ly/brNt7eIs" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Launch_Coffee_Now-FF5722?style=for-the-badge&logo=github&logoColor=white&labelColor=24292F"
          alt="Launch Coffee Now" width="380"
          style="border-radius:8px;" />
@@ -63,7 +63,7 @@
 ---
 
 <div align="center">
-  <a href="https://minecraft-coffee-client.github.io/Coffee-Client-Minecraft/" target="_blank" rel="noopener">
+  <a href="https://cutt.ly/brNt7eIs" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Launch_Coffee_Now-FF5722?style=for-the-badge&logo=github&logoColor=white&labelColor=24292F"
          alt="Launch Coffee Now" width="380"
          style="border-radius:8px;" />
